@@ -29,7 +29,7 @@ Usage
 
 bash
 
-git clone https://github.com/your-username/wptheme-detector.git
+git clone https://github.com/Code-Gale/wptheme-detector.git
 
     Navigate to the project directory:
 
